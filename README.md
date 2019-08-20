@@ -8,6 +8,6 @@ This script install php-xdebug inside docker with base image is alpine, or have 
 - This script is for local or dev environment application
 - Actually this script not install if base image not is alpine or have support for `APK`
 
-#####Thanks!
+##### Thanks!
 
 - I plan to release more updates soon
